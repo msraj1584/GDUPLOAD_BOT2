@@ -2,8 +2,9 @@ class config:
     BOT_TOKEN = "1806498975:AAG9tAQXL4JAaOjRgsWesOboosVFrzgI3Wo"
     APP_ID = "2719161"
     API_HASH = " 7cee7c162f09ef31d18425ff64cb6552"
-    DATABASE_URL = "postgres://faqkmtqpqgilma:ca9cb872fee07cbabd0528d0447847eaf8ddf321ce36139377e2faba9e6a5aa0@ec2-34-233-114-40.compute-1.amazonaws.com:5432/d4g34557hos5l7"
-    SUDO_USERS = "https://t.me/msraj_movies" # Sepearted by space.
+    DATABASE_URL = "postgres://kfuczmnddzqkvi:ac0045cd125ae075a2434b49634b4872dfbac9b8c1db7a3402060b236b7efb6f@ec2-54-157-100-65.compute-1.amazonaws.com:5432/dfoj8ctjoarf65"
+    SUDO_USERS = "718814268" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/BabyOptimusPrime"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "983824641877-gv6isrf29s9rg2d6f1em9p37mmrrlpk1.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "tYbCHhtGzj79q2z89ssKadlv"
