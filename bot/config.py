@@ -1,7 +1,7 @@
 class config:
     BOT_TOKEN = "1806498975:AAG9tAQXL4JAaOjRgsWesOboosVFrzgI3Wo"
     APP_ID = "2719161"
-    API_HASH = " 7cee7c162f09ef31d18425ff64cb6552"
+    API_HASH = "7cee7c162f09ef31d18425ff64cb6552"
     DATABASE_URL = "postgres://kfuczmnddzqkvi:ac0045cd125ae075a2434b49634b4872dfbac9b8c1db7a3402060b236b7efb6f@ec2-54-157-100-65.compute-1.amazonaws.com:5432/dfoj8ctjoarf65"
     SUDO_USERS = "718814268" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/BabyOptimusPrime"
